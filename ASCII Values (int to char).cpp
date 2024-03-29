@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+main()
+{
+	//ASCII Values...
+	
+	int a;
+	cout<<"Enter a Value: ";
+	cin>>a;
+	cout<<(char)a;						//Integer to Character ASCII value...
+}
